@@ -4,13 +4,13 @@
 
 ## 二、LLM Wiki 成果
 
-Wiki 網址　［貼上發布後的 wiki.html 網址］
+Wiki 網址　［(https://tinotsai.github.io/sou-desu-homework/wiki.html)］
 
 Wiki 收錄五份教材，各自有摘要、原始連結與支持的條目。四個條目涵蓋樣態、傳聞、對照與例句，並可用「傳聞」或「過去形」等關鍵字查找。離線版開啟 wiki.html。
 
 ## 三、教學 HTML 簡報
 
-簡報網址　［貼上發布後的首頁網址］
+簡報網址　［(https://tinotsai.github.io/sou-desu-homework/)］
 
 簡報有六頁，從下雨的兩句對照開始，講解兩種接續，再用三道生活情境題和即時解析檢驗理解。離線版開啟 index.html。
 
